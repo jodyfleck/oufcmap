@@ -30,7 +30,7 @@ def run():
 
     st.markdown(
         """
-        OUFC Maps is a free service provided by the Ontario Urban Forest Council.
+        OUFC Maps is a free service provided by the Ontario Urban Forest Council...
         
         Here, we provide maps and layers to identify communities that have urban forest policies and plans. 
         **👈 Select a layer from the sidebar** 
