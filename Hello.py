@@ -24,25 +24,19 @@ def run():
         page_icon="👋",
     )
 
-    st.write("# Welcome to Streamlit! 👋")
+    st.write("# Welcome to OUFC Maps! 👋")
 
-    st.sidebar.success("Select a demo above.")
+    st.sidebar.success("Select a map layer above.")
 
     st.markdown(
         """
-        Streamlit is an open-source app framework built specifically for
-        Machine Learning and Data Science projects.
-        **👈 Select a demo from the sidebar** to see some examples
-        of what Streamlit can do!
+        OUFC Maps is a free service provided by the Ontario Urban Forest Council.
+        
+        Here, we provide maps and layers to identify communities that have urban forest policies and plans. 
+        **👈 Select a layer from the sidebar** 
         ### Want to learn more?
-        - Check out [streamlit.io](https://streamlit.io)
-        - Jump into our [documentation](https://docs.streamlit.io)
-        - Ask a question in our [community
-          forums](https://discuss.streamlit.io)
-        ### See more complex demos
-        - Use a neural net to [analyze the Udacity Self-driving Car Image
-          Dataset](https://github.com/streamlit/demo-self-driving)
-        - Explore a [New York City rideshare dataset](https://github.com/streamlit/demo-uber-nyc-pickups)
+        - Jump into our home page [OUFC](https://oufc.org)
+        
     """
     )
 
